@@ -5,3 +5,5 @@ verify_ssl = true
 [packages]
 apistar = "*"
 maya = "*"
+meinheld = "*"
+gunicorn = "*"
