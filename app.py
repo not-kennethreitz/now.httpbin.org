@@ -22,7 +22,7 @@ def parse(timestamp):
 def home():
     return {
         'now': from_maya(maya.now()),
-        'urls': ['/', '/docs', '/when/:timestamp', '/parse/:timestamp']
+        'urls': ['/', '/docs', '/when/:human-timestamp', '/parse/:machine-timestamp']
         }
 
 routes = [
