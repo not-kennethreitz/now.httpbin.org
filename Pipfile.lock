@@ -1,0 +1,101 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "92f0917de6ddf9e6a48c4b2992ecd005d3e691eaf772ed43e285a924af188fa6"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "Jinja2": {
+            "version": "==2.9.6"
+        },
+        "MarkupSafe": {
+            "version": "==1.0"
+        },
+        "Werkzeug": {
+            "version": "==0.12.1"
+        },
+        "apistar": {
+            "version": "==0.1.17"
+        },
+        "appdirs": {
+            "version": "==1.4.3"
+        },
+        "click": {
+            "version": "==6.7"
+        },
+        "coreapi": {
+            "version": "==2.3.0"
+        },
+        "coreschema": {
+            "version": "==0.0.4"
+        },
+        "dateparser": {
+            "version": "==0.6.0"
+        },
+        "humanize": {
+            "version": "==0.5.1"
+        },
+        "itypes": {
+            "version": "==1.1.0"
+        },
+        "maya": {
+            "version": "==0.1.8"
+        },
+        "packaging": {
+            "version": "==16.8"
+        },
+        "pendulum": {
+            "version": "==1.2.0"
+        },
+        "py": {
+            "version": "==1.4.33"
+        },
+        "pyparsing": {
+            "version": "==2.2.0"
+        },
+        "pytest": {
+            "version": "==3.0.7"
+        },
+        "python-dateutil": {
+            "version": "==2.6.0"
+        },
+        "pytz": {
+            "version": "==2017.2"
+        },
+        "pytzdata": {
+            "version": "==2017.2"
+        },
+        "regex": {
+            "version": "==2017.04.29"
+        },
+        "requests": {
+            "version": "==2.14.2"
+        },
+        "ruamel.yaml": {
+            "version": "==0.14.11"
+        },
+        "setuptools": {
+            "version": "==35.0.2"
+        },
+        "six": {
+            "version": "==1.10.0"
+        },
+        "tzlocal": {
+            "version": "==1.4"
+        },
+        "uritemplate": {
+            "version": "==3.0.0"
+        },
+        "whitenoise": {
+            "version": "==3.3.0"
+        }
+    },
+    "develop": {}
+}
